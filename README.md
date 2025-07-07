@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+https://www.kaeditor.com/
+
+KAEditor is a kick-ass AI code editor built for developers who move fast, think big, and demand more from their tools. It’s not just another autocomplete engine—it’s your AI-powered coding sidekick, ready to help you write, refactor, and ship with speed and precision. As a strong alternative to Cursor and Windsurf, KAEditor focuses on delivering a frictionless, high-performance experience without unnecessary complexity or bloat. Whether you’re squashing bugs, navigating massive codebases, or building something from scratch, KAEditor keeps you in the zone with smart suggestions, seamless refactoring, and powerful project navigation. It’s designed for real-world dev workflows where flow state matters and shipping fast is non-negotiable. Code smarter. Ship faster. Kick ass.
+
+
 <!--
 **kaeditor/kaeditor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
